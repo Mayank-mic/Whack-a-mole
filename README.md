@@ -1,6 +1,3 @@
-# Whack-a-mole
-
-
 
 # Whack-A-Mole Game
 
@@ -16,7 +13,7 @@ Whack-A-Mole is a simple and fun web-based game where you have to whack (click) 
 
 ## Installation
 
-To play the game, you don't need to install anything. Simply open the index.html file in your web browser, and the game will start.
+To play the game, you don't need to install anything. Simply click on the github pages link and the game will start.
 
 ## Usage
 
@@ -71,4 +68,4 @@ This game was inspired by the classic arcade game "Whack-A-Mole."
 
 ## Contact
 
-If you have any questions or want to get in touch, you can reach me at [your_email@example.com]. Feel free to visit my GitHub profile [GitHub Profile URL] for more projects and contributions. Enjoy the game!
+If you have any questions or want to get in touch, you can reach me at [mayankchaturvedi7755@gmail.com]. Feel free to visit my GitHub profile [https://github.com/Mayank-mic/] for more projects and contributions. Enjoy the game!
