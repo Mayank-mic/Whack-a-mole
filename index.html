@@ -68,6 +68,7 @@
         function gameOver() {
             clearInterval(timerInterval);
             document.getElementById('playAgainButton').style.display = 'block';
+            document.getElementById('playAgainButton').addEventListener('click', startGame);
         }
     
         function peep() {
