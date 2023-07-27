@@ -1,4 +1,8 @@
 ## Whack-A-Mole !
+
+[https://github.com/Mayank-mic/Whack-a-mole/blob/main/landing%20page.png]
+
+
 Whack-A-Mole is a simple and fun web-based game where you have to whack (click) moles that randomly pop up from their holes within a time limit. Your goal is to score as many points as possible by whacking the moles before the time runs out.
 
 ## Table of Contents
